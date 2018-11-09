@@ -18,7 +18,7 @@ public class SubjectTest {
     }
 
     @Test
-    public void getState() {
+    public void testGetState() {
         assertEquals(20, subject.getState());
     }
 }
